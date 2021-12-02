@@ -1,0 +1,7 @@
+{
+  "name": "ionic-input-with-icon-button-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
